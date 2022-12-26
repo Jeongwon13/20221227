@@ -14,7 +14,7 @@ class Person {
 	public Person(String name, int age, String bt) {
 		//5) 각각의 매개변수로 입력된 값들을 각각의 멤버변수에 대입
 		 m_name = name;
-		m_age = age;
+		 m_age = age;
 		 m_bt = bt;
 		
 	}
